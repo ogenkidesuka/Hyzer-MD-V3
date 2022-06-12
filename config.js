@@ -31,13 +31,13 @@ global.htki = '––––––『'
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.wait = '_*tunggu sedang di proses...*_'
-global.eror = '_*Server Error*_'
+global.wait = '_*sabar tod proses...*_'
+global.eror = '_*Server lagi Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
-global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = '2022'
-global.author = '© Hyzer Official'
+global.stiker_wait = 'Stiker lagi dibikin sabar bntr ya tod'
+global.packname = 'vams'
+global.author = '© Tn_vams'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
